@@ -1,7 +1,7 @@
 # Lionel Rousseau
 
 **Administrateur Systèmes Linux & Sécurité Opérationnelle**
-Pays de la Loire — Disponibilité immédiate — Mobilité nationale
+Pays de la Loire - Disponibilité immédiate - Mobilité nationale
 
 ---
 
@@ -59,7 +59,7 @@ depuis 2001.
 # English version
 
 **Linux Systems Administrator & SecOps practitioner**
-Pays de la Loire, France — available immediately, open to relocation.
+Pays de la Loire, France - available immediately, open to relocation.
 
 ---
 
