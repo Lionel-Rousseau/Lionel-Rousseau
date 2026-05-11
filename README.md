@@ -40,11 +40,6 @@ Orchestration de sauvegardes multi-hôtes — rsync, containers LUKS, opération
 idempotentes, vérification SHA-256, et une boucle de contrôle qui a détecté
 des échecs silencieux sur 7 ans d'exploitation continue.
 
-### [postfix-rspamd-hardened-config](https://github.com/Lionel-Rousseau/postfix-rspamd-hardened-config)
-Configuration Postfix + Dovecot + Rspamd durcie — chaîne SPF/DKIM/DMARC/ARC complète,
-DANE, MTA-STS, postscreen, politiques anti-spam calibrées. Maintenu en production
-depuis 2001.
-
 ---
 
 ## Liens
@@ -97,10 +92,6 @@ SecOps architecture & continuity of a multi-site Linux production infrastructure
 Multi-host backup orchestration — rsync, LUKS containers, idempotent remote operations,
 SHA-256 verified config sync, and a verification loop that has actually caught silent
 failures over 7 years of 24/7 operation.
-
-### [postfix-rspamd-hardened-config](https://github.com/Lionel-Rousseau/postfix-rspamd-hardened-config)
-Hardened Postfix + Dovecot + Rspamd configuration — full SPF/DKIM/DMARC/ARC chain,
-DANE, MTA-STS, postscreen, tuned anti-spam policies. Maintained continuously since 2001.
 
 ---
 
