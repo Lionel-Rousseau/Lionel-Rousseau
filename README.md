@@ -23,7 +23,7 @@ d'une infrastructure réelle exploitée 24/7 depuis 2018, publiés comme
 démonstration de pratique opérationnelle.
 
 Compétences clés : **Administration Linux · SecOps · Postfix/Dovecot/Rspamd ·
-Proxmox · OPNsense · Wazuh · Ansible · Bash · LUKS · durcissement réseau**
+Proxmox · OPNsense · Wazuh · Ansible · Bash · LUKS · durcissement sytème & réseau**
 
 Anglais C1/C2 — TOEIC 980.
 
@@ -76,7 +76,7 @@ of a real infrastructure operated 24/7 since 2018, published as evidence of
 operational practice rather than side projects.
 
 Core competencies: **Linux administration · SecOps · Postfix/Dovecot/Rspamd ·
-Proxmox · OPNsense · Wazuh · Ansible · Bash · LUKS · network hardening**
+Proxmox · OPNsense · Wazuh · Ansible · Bash · LUKS · system & network hardening**
 
 English C1/C2 — TOEIC 980.
 
