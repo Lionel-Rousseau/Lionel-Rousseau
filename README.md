@@ -33,7 +33,7 @@ Anglais C1/C2 — TOEIC 980.
 
 Présentation complète de l'architecture, des contrôles de sécurité,
 des procédures de continuité et des retours d'expérience associés :
-[**LRO_Dossier_Technique_2026.pdf**](./laflanelle-secops-architecture/LRO_Dossier_Technique_2026.pdf) — 16 pages.
+[**LRO_Dossier_Technique_2026.pdf**](https://github.com/Lionel-Rousseau/laflanelle-secops-architecture/blob/main/LRO_Dossier_Technique_2026.pdf) — 16 pages.
 
 ---
 
