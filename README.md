@@ -101,6 +101,9 @@ Multi-host backup orchestration — rsync, LUKS containers, idempotent remote op
 SHA-256 verified config sync, and a verification loop that has actually caught silent
 failures over 7 years of 24/7 operation.
 
+### [proxmox-unbound-iac](https://github.com/Lionel-Rousseau/proxmox-unbound-iac)
+Automatisation Terraform/Ansible d’un résolveur DNS Unbound en LXC Proxmox, avec validation DNS, 
+DNSSEC et DNS-over-TLS par script Bash. Dépôt anonymisé issu d’un cas réel d’exploitation Linux/SecOps.
 ---
 
 ## Links
