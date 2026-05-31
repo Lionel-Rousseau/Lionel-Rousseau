@@ -48,6 +48,10 @@ Orchestration de sauvegardes multi-hôtes — rsync, containers LUKS, opération
 idempotentes, vérification SHA-256, et une boucle de contrôle qui a détecté
 des échecs silencieux sur 7 ans d'exploitation continue.
 
+### [proxmox-unbound-iac](https://github.com/Lionel-Rousseau/proxmox-unbound-iac)
+Automatisation Terraform/Ansible d’un résolveur DNS Unbound en LXC Proxmox, avec validation DNS, 
+DNSSEC et DNS-over-TLS par script Bash. Dépôt anonymisé issu d’un cas réel d’exploitation Linux/SecOps.
+
 ---
 
 ## Liens
@@ -102,8 +106,10 @@ SHA-256 verified config sync, and a verification loop that has actually caught s
 failures over 7 years of 24/7 operation.
 
 ### [proxmox-unbound-iac](https://github.com/Lionel-Rousseau/proxmox-unbound-iac)
-Automatisation Terraform/Ansible d’un résolveur DNS Unbound en LXC Proxmox, avec validation DNS, 
-DNSSEC et DNS-over-TLS par script Bash. Dépôt anonymisé issu d’un cas réel d’exploitation Linux/SecOps.
+Terraform/Ansible automation of an Unbound DNS resolver in Proxmox LXC, with DNS, 
+DNSSEC, and DNS-over-TLS validation via Bash script. Anonymized repository based on 
+a real-world Linux/SecOps deployment.
+
 ---
 
 ## Links
