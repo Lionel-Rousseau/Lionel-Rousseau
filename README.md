@@ -43,10 +43,10 @@ des procédures de continuité et des retours d'expérience associés :
 Architecture SecOps & continuité d'une infrastructure Linux multi-sites en production,
 7 ans d'exploitation autonome, défense en profondeur, PCA documenté.
 
-### [postfix-rspamd-hardened-config](https://github.com/Lionel-Rousseau/postfix-rspamd-hardened-config)
-Configuration de messagerie Linux durcie issue d’une plateforme de production : 
-Postfix, Dovecot, Rspamd, OpenDKIM/OpenDMARC/OpenARC, SPF/DKIM/DMARC/ARC, DANE/MTA-STS, 
-MX secondaire, Fail2ban, ipset et scripts d’exploitation.
+### [postfix-rspamd-hardened-config](https://github.com/Lionel-Rousseau/postfix-rspamd-hardened-config) (EN)
+Postfix / Rspamd hardened mail stack. Configuration de messagerie Linux durcie, issue d’une plateforme de 
+production : Postfix, Dovecot, Rspamd, OpenDKIM/OpenDMARC/OpenARC, SPF/DKIM/DMARC/ARC, DANE/MTA-STS, MX secondaire, 
+Fail2ban, ipset et scripts d’exploitation.
 
 ### [linux-prod-backup-toolbox](https://github.com/Lionel-Rousseau/linux-prod-backup-toolbox)
 Orchestration de sauvegardes multi-hôtes — rsync, containers LUKS, opérations
@@ -109,6 +109,11 @@ English C1/C2 — TOEIC 980.
 ### [laflanelle-secops-architecture](https://github.com/Lionel-Rousseau/laflanelle-secops-architecture)
 SecOps architecture & continuity of a multi-site Linux production infrastructure,
 7 years of autonomous operation, defense in depth, documented disaster recovery plan.
+
+### [postfix-rspamd-hardened-config](https://github.com/Lionel-Rousseau/postfix-rspamd-hardened-config)
+Postfix / Rspamd hardened mail stack. Production-derived hardened Linux mail configuration featuring 
+Postfix, Dovecot, Rspamd, OpenDKIM/OpenDMARC/OpenARC, SPF/DKIM/DMARC/ARC, DANE/MTA-STS, secondary MX, 
+Fail2ban, ipset, and operational scripts.
 
 ### [linux-prod-backup-toolbox](https://github.com/Lionel-Rousseau/linux-prod-backup-toolbox)
 Multi-host backup orchestration — rsync, LUKS containers, idempotent remote operations,
