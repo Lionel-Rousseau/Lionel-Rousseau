@@ -43,7 +43,7 @@ des procédures de continuité et des retours d'expérience associés :
 Architecture SecOps & continuité d'une infrastructure Linux multi-sites en production,
 7 ans d'exploitation autonome, défense en profondeur, PCA documenté.
 
-### [postfix-rspamd-hardened-config](https://github.com/Lionel-Rousseau/postfix-rspamd-hardened-config) 🇬🇧:
+### [postfix-rspamd-hardened-config](https://github.com/Lionel-Rousseau/postfix-rspamd-hardened-config) 🇬🇧
 Postfix / Rspamd hardened mail stack. Configuration de messagerie Linux durcie, issue d’une plateforme de 
 production : Postfix, Dovecot, Rspamd, OpenDKIM/OpenDMARC/OpenARC, SPF/DKIM/DMARC/ARC, DANE/MTA-STS, MX secondaire, 
 Fail2ban, ipset et scripts d’exploitation.
@@ -106,7 +106,7 @@ English C1/C2 — TOEIC 980.
 
 ## Repositories
 
-### [laflanelle-secops-architecture](https://github.com/Lionel-Rousseau/laflanelle-secops-architecture)
+### [laflanelle-secops-architecture](https://github.com/Lionel-Rousseau/laflanelle-secops-architecture) 🇫🇷
 SecOps architecture & continuity of a multi-site Linux production infrastructure,
 7 years of autonomous operation, defense in depth, documented disaster recovery plan.
 
@@ -115,17 +115,17 @@ Postfix / Rspamd hardened mail stack. Production-derived hardened Linux mail con
 Postfix, Dovecot, Rspamd, OpenDKIM/OpenDMARC/OpenARC, SPF/DKIM/DMARC/ARC, DANE/MTA-STS, secondary MX, 
 Fail2ban, ipset, and operational scripts.
 
-### [linux-prod-backup-toolbox](https://github.com/Lionel-Rousseau/linux-prod-backup-toolbox)
+### [linux-prod-backup-toolbox](https://github.com/Lionel-Rousseau/linux-prod-backup-toolbox) 🇫🇷
 Multi-host backup orchestration — rsync, LUKS containers, idempotent remote operations,
 SHA-256 verified config sync, and a verification loop that has actually caught silent
 failures over 7 years of 24/7 operation.
 
-### [proxmox-unbound-iac](https://github.com/Lionel-Rousseau/proxmox-unbound-iac)
+### [proxmox-unbound-iac](https://github.com/Lionel-Rousseau/proxmox-unbound-iac) 🇫🇷
 Terraform/Ansible automation of an Unbound DNS resolver in Proxmox LXC, with DNS, 
 DNSSEC, and DNS-over-TLS validation via Bash script. Anonymized repository based on 
 a real-world Linux/SecOps deployment.
 
-### [letsencrypt-cert-pipeline](https://github.com/Lionel-Rousseau/letsencrypt-cert-pipeline)
+### [letsencrypt-cert-pipeline](https://github.com/Lionel-Rousseau/letsencrypt-cert-pipeline) 🇫🇷
 Certbot DNS-01 → Let's Encrypt → Freebox OS API deployment pipeline: automated renewal,
 multi-host TLS expiry audit, secrets isolated at 600. Based on a real-world deployment,
 anonymized for publication.
