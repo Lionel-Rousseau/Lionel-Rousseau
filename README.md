@@ -40,7 +40,7 @@ des procédures de continuité et des retours d'expérience associés :
 ## Dépôts
 
 ### [laflanelle-secops-architecture](https://github.com/Lionel-Rousseau/laflanelle-secops-architecture)
-Architecture SecOps & continuité d'une infrastructure Linux multi-sites en production —
+Architecture SecOps & continuité d'une infrastructure Linux multi-sites en production,
 7 ans d'exploitation autonome, défense en profondeur, PCA documenté.
 
 ### [linux-prod-backup-toolbox](https://github.com/Lionel-Rousseau/linux-prod-backup-toolbox)
@@ -51,6 +51,11 @@ des échecs silencieux sur 7 ans d'exploitation continue.
 ### [proxmox-unbound-iac](https://github.com/Lionel-Rousseau/proxmox-unbound-iac)
 Automatisation Terraform/Ansible d’un résolveur DNS Unbound en LXC Proxmox, avec validation DNS, 
 DNSSEC et DNS-over-TLS par script Bash. Dépôt anonymisé issu d’un cas réel d’exploitation Linux/SecOps.
+
+### [letsencrypt-cert-pipeline](https://github.com/Lionel-Rousseau/letsencrypt-cert-pipeline)
+Pipeline Certbot DNS-01 → Let's Encrypt → déploiement API Freebox OS : renouvellement
+automatisé, audit multi-hôtes d'expiration TLS, secrets cloisonnés. Code issu d'un
+cas réel d'exploitation, anonymisé et adapté pour publication.
 
 ---
 
@@ -97,7 +102,7 @@ English C1/C2 — TOEIC 980.
 ## Repositories
 
 ### [laflanelle-secops-architecture](https://github.com/Lionel-Rousseau/laflanelle-secops-architecture)
-SecOps architecture & continuity of a multi-site Linux production infrastructure —
+SecOps architecture & continuity of a multi-site Linux production infrastructure,
 7 years of autonomous operation, defense in depth, documented disaster recovery plan.
 
 ### [linux-prod-backup-toolbox](https://github.com/Lionel-Rousseau/linux-prod-backup-toolbox)
@@ -109,6 +114,11 @@ failures over 7 years of 24/7 operation.
 Terraform/Ansible automation of an Unbound DNS resolver in Proxmox LXC, with DNS, 
 DNSSEC, and DNS-over-TLS validation via Bash script. Anonymized repository based on 
 a real-world Linux/SecOps deployment.
+
+### [letsencrypt-cert-pipeline](https://github.com/Lionel-Rousseau/letsencrypt-cert-pipeline)
+Certbot DNS-01 → Let's Encrypt → Freebox OS API deployment pipeline: automated renewal,
+multi-host TLS expiry audit, secrets isolated at 600. Based on a real-world deployment,
+anonymized for publication.
 
 ---
 
