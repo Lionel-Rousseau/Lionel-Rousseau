@@ -43,6 +43,11 @@ des procédures de continuité et des retours d'expérience associés :
 Architecture SecOps & continuité d'une infrastructure Linux multi-sites en production,
 7 ans d'exploitation autonome, défense en profondeur, PCA documenté.
 
+### [postfix-rspamd-hardened-config](https://github.com/Lionel-Rousseau/postfix-rspamd-hardened-config)
+Configuration de messagerie Linux durcie issue d’une plateforme de production : 
+Postfix, Dovecot, Rspamd, OpenDKIM/OpenDMARC/OpenARC, SPF/DKIM/DMARC/ARC, DANE/MTA-STS, 
+MX secondaire, Fail2ban, ipset et scripts d’exploitation.
+
 ### [linux-prod-backup-toolbox](https://github.com/Lionel-Rousseau/linux-prod-backup-toolbox)
 Orchestration de sauvegardes multi-hôtes — rsync, containers LUKS, opérations
 idempotentes, vérification SHA-256, et une boucle de contrôle qui a détecté
