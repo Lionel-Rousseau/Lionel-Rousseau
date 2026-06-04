@@ -48,7 +48,7 @@ Postfix / Rspamd hardened mail stack. Configuration de messagerie Linux durcie, 
 production : Postfix, Dovecot, Rspamd, OpenDKIM/OpenDMARC/OpenARC, SPF/DKIM/DMARC/ARC, DANE/MTA-STS, MX secondaire, 
 Fail2ban, ipset et scripts d’exploitation.
 
-### [linux-prod-backup-toolbox](https://github.com/Lionel-Rousseau/linux-prod-backup-toolbox)
+### [linux-prod-backup-toolbox](https://github.com/Lionel-Rousseau/linux-prod-backup-toolbox) 🇬🇧
 Orchestration de sauvegardes multi-hôtes — rsync, containers LUKS, opérations
 idempotentes, vérification SHA-256, et une boucle de contrôle qui a détecté
 des échecs silencieux sur 7 ans d'exploitation continue.
@@ -115,7 +115,7 @@ Postfix / Rspamd hardened mail stack. Production-derived hardened Linux mail con
 Postfix, Dovecot, Rspamd, OpenDKIM/OpenDMARC/OpenARC, SPF/DKIM/DMARC/ARC, DANE/MTA-STS, secondary MX, 
 Fail2ban, ipset, and operational scripts.
 
-### [linux-prod-backup-toolbox](https://github.com/Lionel-Rousseau/linux-prod-backup-toolbox) 🇫🇷
+### [linux-prod-backup-toolbox](https://github.com/Lionel-Rousseau/linux-prod-backup-toolbox)
 Multi-host backup orchestration — rsync, LUKS containers, idempotent remote operations,
 SHA-256 verified config sync, and a verification loop that has actually caught silent
 failures over 7 years of 24/7 operation.
