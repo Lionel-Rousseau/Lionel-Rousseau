@@ -57,7 +57,7 @@ des échecs silencieux sur 7 ans d'exploitation continue.
 Automatisation Terraform/Ansible d’un résolveur DNS Unbound en LXC Proxmox, avec validation DNS, 
 DNSSEC et DNS-over-TLS par script Bash. Dépôt anonymisé issu d’un cas réel d’exploitation Linux/SecOps.
 
-### [letsencrypt-cert-pipeline](https://github.com/Lionel-Rousseau/letsencrypt-cert-pipeline)
+### [letsencrypt-cert-pipeline](https://github.com/Lionel-Rousseau/letsencrypt-cert-pipeline) 🇬🇧
 Pipeline Certbot DNS-01 → Let's Encrypt → déploiement API Freebox OS : renouvellement
 automatisé, audit multi-hôtes d'expiration TLS, secrets cloisonnés. Code issu d'un
 cas réel d'exploitation, anonymisé et adapté pour publication.
@@ -125,7 +125,7 @@ Terraform/Ansible automation of an Unbound DNS resolver in Proxmox LXC, with DNS
 DNSSEC, and DNS-over-TLS validation via Bash script. Anonymized repository based on 
 a real-world Linux/SecOps deployment.
 
-### [letsencrypt-cert-pipeline](https://github.com/Lionel-Rousseau/letsencrypt-cert-pipeline) 🇫🇷
+### [letsencrypt-cert-pipeline](https://github.com/Lionel-Rousseau/letsencrypt-cert-pipeline)
 Certbot DNS-01 → Let's Encrypt → Freebox OS API deployment pipeline: automated renewal,
 multi-host TLS expiry audit, secrets isolated at 600. Based on a real-world deployment,
 anonymized for publication.
